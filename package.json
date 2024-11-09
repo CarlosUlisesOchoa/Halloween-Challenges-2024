@@ -1,29 +1,26 @@
 {
-	"name": "carlos8a-halloween-challenges-2024",
-	"version": "1.0.0",
-	"description": "My solutions for the [Spooky JavaScript/TypeScript Coding Challenges by midudev",
-	"type": "module",
-	"scripts": {
-		"challenge-01": "node src/challenge-01",
-		"challenge-02": "node src/challenge-02",
-		"challenge-03": "node src/challenge-03",
-		"challenge-04": "node src/challenge-04",
-		"challenge-05": "node src/challenge-05",
-		"test": "jest"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/CarlosUlisesOchoa/Halloween-Challenges-2024.git"
-	},
-	"author": "Carlos Ochoa",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/CarlosUlisesOchoa/Halloween-Challenges-2024/issues"
-	},
-	"homepage": "https://github.com/CarlosUlisesOchoa/Halloween-Challenges-2024",
-	"devDependencies": {
-		"@types/jest": "^29.5.14",
-		"jest": "^29.7.0",
-		"ts-jest": "^29.2.5"
-	}
+  "name": "carlos8a-halloween-challenges-2024",
+  "version": "1.0.0",
+  "description": "My solutions for the [Spooky JavaScript/TypeScript Coding Challenges by midudev",
+  "type": "module",
+  "scripts": {
+    "test-01": "jest --runInBand tests/challenge-01.test.js",
+    "test-02": "jest --runInBand tests/challenge-02.test.js",
+    "test-03": "jest --runInBand tests/challenge-03.test.js",
+    "test-04": "jest --runInBand tests/challenge-04.test.js",
+    "test-05": "jest --runInBand tests/challenge-05.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosUlisesOchoa/Halloween-Challenges-2024.git"
+  },
+  "author": "Carlos Ochoa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarlosUlisesOchoa/Halloween-Challenges-2024/issues"
+  },
+  "homepage": "https://github.com/CarlosUlisesOchoa/Halloween-Challenges-2024",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
