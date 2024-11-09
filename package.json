@@ -1,14 +1,15 @@
 {
   "name": "carlos8a-halloween-challenges-2024",
   "version": "1.0.0",
-  "description": "My solutions for the [Spooky JavaScript/TypeScript Coding Challenges by midudev",
+  "description": "My solutions for the Spooky JavaScript/TypeScript Coding Challenges by midudev",
   "type": "module",
   "scripts": {
     "test-01": "jest --runInBand tests/challenge-01.test.js",
     "test-02": "jest --runInBand tests/challenge-02.test.js",
     "test-03": "jest --runInBand tests/challenge-03.test.js",
     "test-04": "jest --runInBand tests/challenge-04.test.js",
-    "test-05": "jest --runInBand tests/challenge-05.test.js"
+    "test-05": "jest --runInBand tests/challenge-05.test.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
