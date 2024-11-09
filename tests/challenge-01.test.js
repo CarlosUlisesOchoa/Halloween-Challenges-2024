@@ -1,9 +1,9 @@
 const { createMagicPotion } = require('../src/challenge-01.js')
 
 describe('createMagicPotion', () => {
-  it('Test #01 - should return type array or undefined', () => {
-    const result = createMagicPotion([4, 5, 6, 2], 8)
-    expect(Array.isArray(result) || result === undefined).toBe(true)
+  it('Test #01 - should return type array', () => {
+    const result = createMagicPotion([13, 5, 6, 2], 8)
+    expect(Array.isArray(result)).toBe(true)
   })
 
   it('Test #02 - createMagicPotion([13, 5, 6, 2], 8)', () => {
