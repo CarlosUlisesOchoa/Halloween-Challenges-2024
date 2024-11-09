@@ -12,22 +12,21 @@ My solutions for the [Spooky JavaScript/TypeScript Coding Challenges](https://ww
 | Challenge | Challenge's Name                                                               | Icon                                                       | Points | Difficult | Solution                          |
 | --------- | ------------------------------------------------------------------------------ | --------------------------------------------------------- | ------- | --------- | --------------------------------- |
 | 1         | [🧙‍♀️ Create the perfect potion](https://www.halloween.dev/en/retos/2024/1)      | <img src="./images/image-1.png" width="50" height="50" /> | 230      |   💀      | [Solution](./src/challenge-01.ts) |
-| 2         | [🧟 Zombie horde](https://www.halloween.dev/en/retos/2024/2)                   | <img src="./images/image-2.png" width="50" height="50" /> | 0      |   💀      | [Not available yet](#!) |
+| 2         | [🧟 Zombie horde](https://www.halloween.dev/en/retos/2024/2)                   | <img src="./images/image-2.png" width="50" height="50" /> | 180      |   💀      | [Solution](./src/challenge-02.ts) |
 | 3         | [🛌 Escape from Freddy's nightmare](https://www.halloween.dev/en/retos/2024/3) | <img src="./images/image-3.png" width="50" height="50" /> | 0      |   💀💀    | [Not available yet](#!)          |
 | 4         | [🔪 Find the killer](https://www.halloween.dev/en/retos/2024/4)                | <img src="./images/image-4.png" width="50" height="50" /> | 0      |   💀💀    | [Not available yet](#!)          |
 | 5         | [▲ Terror on Pyramid Head](https://www.halloween.dev/en/retos/2024/5)          | <img src="./images/image-5.png" width="50" height="50" /> | 0      |   💀💀💀  | [Not available yet](#!)          |
 
-## How to Run the Code :running:
+## How to run code solutions 🏃‍♂️‍➡️
 
 ```
+npm i
+npm run test
 npm run test-<number_of_challenge>
 ```
 
 **NOTE: number_of_challenge ranges from 01 to 05**. e.g. `npm run test-01`
 
-## Thanks to [midudev](https://github.com/midudev) for creating this project!
-
-[Twitch](https://twitch.tv/midudev) [Discord](https://discord.gg/midudev) [Youtube](https://youtube.com/midudev)
 
 ## About developer
 
