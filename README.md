@@ -15,7 +15,7 @@ My solutions for the [Spooky JavaScript/TypeScript Coding Challenges](https://ww
 | 2         | [🧟 Zombie horde](https://www.halloween.dev/en/retos/2024/2)                   | <img src="./images/image-2.png" width="50" height="50" /> | 180      |   💀      | [Solution](./src/challenge-02.ts) |
 | 3         | [🛌 Escape from Freddy's nightmare](https://www.halloween.dev/en/retos/2024/3) | <img src="./images/image-3.png" width="50" height="50" /> | 230      |   💀💀    | [Solution](./src/challenge-03.ts) |
 | 4         | [🔪 Find the killer](https://www.halloween.dev/en/retos/2024/4)                | <img src="./images/image-4.png" width="50" height="50" /> | 270      |   💀💀    | [Solution](./src/challenge-04.ts) |
-| 5         | [▲ Terror on Pyramid Head](https://www.halloween.dev/en/retos/2024/5)          | <img src="./images/image-5.png" width="50" height="50" /> | 0      |   💀💀💀  | [Not available yet](#!)          |
+| 5         | [▲ Terror on Pyramid Head](https://www.halloween.dev/en/retos/2024/5)          | <img src="./images/image-5.png" width="50" height="50" /> | 25      |   💀💀💀  | [Solution](./src/challenge-05.ts) |
 
 ## How to run code solutions 🏃‍♂️‍➡️
 
